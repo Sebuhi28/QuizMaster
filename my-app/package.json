@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://Sebuhi28.github.io/cff-new-main",
+  "homepage": "https://Sebuhi28.github.io/QuizMaster",
   "private": true,
   "proxy": "http://localhost:5000",
   "dependencies": {
